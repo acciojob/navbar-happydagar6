@@ -23,11 +23,11 @@ body {
 	font-size: 18px;
 	padding: 18px 27px;
 	transition: background-color 0.2s ease;
+	cursor: pointer;
 }
 
 .navbar li:hover {
 	background-color: #b90e4d;
-	cursor: pointer;
 }
 .navbar li:not(:last-child) {
 	border-right: 2px solid white;
